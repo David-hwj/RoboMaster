@@ -1,0 +1,2 @@
+先给USB串口权限：sudo chmod 666 /dev/ttyUSB0
+检查摄像头串口是否正确
