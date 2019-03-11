@@ -1,8 +1,8 @@
 /*
     版权：湖南大学Robomaster视觉组
     功能：整合HSV+RGB模块 提取装甲板坐标
-    版本：1.1
-    时间：2019/3/5  - 00：14
+    版本：1.3
+    时间：2019/3/11  - 20：27
 */
 #include <iostream>
 #include<rgb_and_hsv.h>
