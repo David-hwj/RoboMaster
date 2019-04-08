@@ -1,0 +1,63 @@
+﻿  REC_PART2.cpp
+C:\Users\Paul\Desktop\RM_VISION\程序\4.8_New_project\Project3\REC_PART2.cpp(250): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Paul\Desktop\RM_VISION\程序\4.8_New_project\Project3\REC_PART2.cpp(252): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Paul\Desktop\RM_VISION\程序\4.8_New_project\Project3\REC_PART2.cpp(257): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Paul\Desktop\RM_VISION\程序\4.8_New_project\Project3\REC_PART2.cpp(258): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Paul\Desktop\RM_VISION\程序\4.8_New_project\Project3\REC_PART2.cpp(262): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Paul\Desktop\RM_VISION\程序\4.8_New_project\Project3\REC_PART2.cpp(263): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Paul\Desktop\RM_VISION\程序\4.8_New_project\Project3\REC_PART2.cpp(272): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Paul\Desktop\RM_VISION\程序\4.8_New_project\Project3\REC_PART2.cpp(273): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Paul\Desktop\RM_VISION\程序\4.8_New_project\Project3\REC_PART2.cpp(274): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Paul\Desktop\RM_VISION\程序\4.8_New_project\Project3\REC_PART2.cpp(275): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Paul\Desktop\RM_VISION\程序\4.8_New_project\Project3\REC_PART2.cpp(289): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Paul\Desktop\RM_VISION\程序\4.8_New_project\Project3\REC_PART2.cpp(289): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Paul\Desktop\RM_VISION\程序\4.8_New_project\Project3\REC_PART2.cpp(321): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Paul\Desktop\RM_VISION\程序\4.8_New_project\Project3\REC_PART2.cpp(322): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Paul\Desktop\RM_VISION\程序\4.8_New_project\Project3\REC_PART2.cpp(326): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Paul\Desktop\RM_VISION\程序\4.8_New_project\Project3\REC_PART2.cpp(343): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Paul\Desktop\RM_VISION\程序\4.8_New_project\Project3\REC_PART2.cpp(343): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  Project3.vcxproj -> C:\Users\Paul\Desktop\RM_VISION\程序\4.8_New_project\x64\Debug\Project3.exe
