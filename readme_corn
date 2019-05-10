@@ -1,0 +1,7 @@
+# 自启动
+/etc/init.d/cron restart 
+/etc/init.d/cron start
+/etc/init.d/cron stop
+ 打开 crontab -e
+想要关掉main的方法是先关掉“定时启动”/etc/init.d/cron stop
+然后在在资源监视器杀掉main
