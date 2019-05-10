@@ -1,0 +1,15 @@
+先给USB串口权限：sudo chmod 666 /dev/ttyUSB0
+检查摄像头串口是否正确
+make
+
+target for version 2.4:
+
+1. optimize the structure of the code, for example, change this form:
+function A -> function B -> function C ...
+to this form:
+function 0 -> function A
+function 0 -> function B 
+function 0 -> function C
+....etc.
+
+2. collect all of the imshow function into one function to control its opening  
