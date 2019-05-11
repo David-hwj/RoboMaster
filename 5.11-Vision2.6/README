@@ -1,0 +1,20 @@
+# 1.电脑配置 ubuntu16.04 + opencv 3.4.1
+安装opencv 3.4.1教程： 
+ https://blog.csdn.net/cocoaqin/article/details/78163171
+
+# 2.ttyUSB0 永久权限
+ 操作前先插入USB串口 HL-340 USB-Serial (ID 1a86:7523)
+ 参考：https://blog.csdn.net/hnlyzxy123/article/details/80305498
+# 3.自启动
+gnome-session-properties  打开开机启动应用程序
+选择添加 编辑名称随意，命令：gnome-terminal -x + command （command为输入的指令）保存即可
+例如：gnome-terminal -x ./main 
+命令表示打开命令行后直接输入 ./main 执行main
+本工程直接执行./start.sh (没运行过之前先赋权限)
+chmod 777(+x) ./start.sh
+
+
+
+
+
+
